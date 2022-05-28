@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "263543496302",
+    "project_id": "fir-chat-app-with-kotlin",
+    "storage_bucket": "fir-chat-app-with-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263543496302:android:8630a1e1a98fe027c3d07f",
+        "android_client_info": {
+          "package_name": "com.example.firebasechatappwithkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263543496302-t3bf84a3turadtnqm7p4vvcjmapn12p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA80DadYPXfFo62SUE4fLZbKep9e9WD5JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263543496302-t3bf84a3turadtnqm7p4vvcjmapn12p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
