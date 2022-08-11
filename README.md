@@ -1,8 +1,8 @@
-# Firebase-Chat-App
+# Firebase-Chat-App-With-Kotlin
 
 This is a simple Android chat application, made using Kotlin and Firebase as a back-end.
 
-# 📲Features
+#📲Features
 
 - Firebase
 - Kotlin
