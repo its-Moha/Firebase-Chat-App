@@ -6,9 +6,9 @@
 
 - Firebase
 - Kotlin
-- Implemented one to one chat application. used Firebase Realtime Database Text Messaging .
+- Implemented one to one chat application. using Firebase Realtime Database Text Messaging .
 - used Firebase Authentication to allow users to Sign Up / Login
-- User can see a list of all other loggedin users
+- User can see a list of all the other loggedin users
 - menu so users can logout
 - Custom UI
 - sender and receiver
