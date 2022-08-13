@@ -16,3 +16,5 @@
 - one-time login for the user, i.e. even if the user kills the app and starts it again, he should be logged in.
 
 # 📷Screenshots
+
+https://user-images.githubusercontent.com/75988940/184498293-3334f7c9-47bc-4e89-a946-20b6279b79da.mp4
